@@ -1,0 +1,50 @@
+
+  p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .video-title{
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+
+  }
+  .vedio-stats{
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 20px;
+
+  }
+  .vedio-author{
+    color: grey;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .vedio-description{
+    font-size: 14px;
+    color: grey;
+    width: 300px;
+    line-height: 22px;
+    margin-bottom: 100px;
+  }
+  .apple-text{
+    font-text: 14px;
+    background-color: red;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .shop-now{
+    cursor: pointer;
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+  .shop-now:hover{
+    text-decoration: underline;
+  } 
