@@ -1,0 +1,29 @@
+.img{
+        width: 70px;
+        height: 50px;
+        object-position: right;
+        object-fit: cover;
+        border-radius: 400px;
+        vertical-align: middle;
+        margin-right: 5px;
+      }
+.text-box{
+  width: 300px;
+  border: none;
+  vertical-align: middle;
+  color: grey;
+  font-size: 14px;
+}
+.button{
+  color: white;
+  background-color: rgb(93, 93, 216);
+  border-radius: 30px;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 15px;
+  cursor: pointer;
+  vertical-align: middle;
+}
