@@ -1,0 +1,23 @@
+.google{
+  width: 300px;
+  padding-bottom: 2px;
+
+
+
+}
+.text{
+  color: grey;
+  width: 500px;
+  border-radius: 6px;
+  border-color: lightgrey;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 30px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+.google,.text{
+  display: block;
+}

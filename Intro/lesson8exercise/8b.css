@@ -1,0 +1,7 @@
+.paragraph{ 
+  width: 200px;
+}
+.paragraph,.yes,.no{ 
+  display: inline-block;
+  vertical-align: middle;
+}

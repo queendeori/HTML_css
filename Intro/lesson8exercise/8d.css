@@ -1,0 +1,24 @@
+.first,.last{
+  display: inline-block;
+  color: grey;
+  margin-bottom: 5px;
+  
+}
+.email{
+  display: block;
+
+  margin-bottom: 6px;
+  padding-right: 152px;
+  
+  }
+  .button{
+  background-color: rgb(80, 146, 245);
+  color: white;
+  padding-left: 127px;
+  padding-right: 126px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  margin-bottom: 6px;
+  border: none;
+}
