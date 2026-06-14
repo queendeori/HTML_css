@@ -1,0 +1,17 @@
+.box{
+  width: 350px;
+  border-line: 2px;
+  border-width: 2px;
+  background-color: grey;
+  color: white;
+  padding: 15px;
+}
+.install{
+  font-size: 25px;
+  font-style: bold;
+
+}
+.add{
+  color: rgb(181, 180, 176);
+
+}
